@@ -1,12 +1,17 @@
 <h1 align="center"> Hi there 👋 </h1>
-<p align="center"> I am tanay_temani ; ) . I Love ❤️ programming and currently working as Machine learning engineer. </p>
+<p align="center"> I am tanay_temani ; )</p>
+<p align="center">I am an aspiring Data Scientist who is really passionate about the field of Artificial Intelligence and solving real-world problems using Machine Learning techniques. He is a forward-thinking person, always looking to learn and experience new technologies.</p>
 
+
+<p align="center" ><img 
+ src="https://user-images.githubusercontent.com/22797857/90096358-dba16400-dd54-11ea-8e44-e181ada72661.gif" width="40%"/></p>
 
 ```javascript
 const tanay= {
     pronouns: "He" | "Him",
     askMeAbout: ["data analysis", "web dev", "machine learning", "artificial intelligence", "python"],
-    skills: ["Machine Learning", "Artificial Intelligence", "Deep Learning", "Natural Language Processing", "Computer Vision"],
+    skills: ["Machine Learning", "Artificial Intelligence", "Deep Learning", "Natural Language Processing", 
+    "Computer Vision", "Regression", "Segmentation", "ANN", "CNN", "RNN", "Time-Series Forecasting"],
     technologies:{
         backEnd: ["nodejs", "express", "python"],
         fronEnd: ["reactjs"],
@@ -19,7 +24,14 @@ const tanay= {
 }
 ```
 
+### Feel Free to Contact me.....
 
+<p align="center">
+	<a href="github.com/tanaytemani"><img alt="github" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/github.png"/></a>
+	<a href="https://www.linkedin.com/in/tanay-temani-43b39520b/"><img alt="linkedin" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/linkedin.png"/></a>
+	<a href="https://www.facebook.com/tanay.temani.5"><img alt="facebook" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/facebook-new.png"/></a>
+	<a href="https://www.instagram.com/imakash3011/"><img alt="instagram" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/instagram.png"/></a>
+</p>
 
 
 <!--
