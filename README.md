@@ -9,17 +9,21 @@
 ```javascript
 const tanay= {
     pronouns: "He" | "Him",
+    
     askMeAbout: ["data analysis", "web dev", "machine learning", "artificial intelligence", "python"],
+    
     skills: ["Machine Learning", "Artificial Intelligence", "Deep Learning", "Natural Language Processing", 
     "Computer Vision", "Regression", "Segmentation", "ANN", "CNN", "RNN", "Time-Series Forecasting"],
+    
     technologies:{
         backEnd: ["nodejs", "express", "python"],
         fronEnd: ["reactjs"],
         database: ["mongo","mySql"],
-        mlstack: ["CoreML","Python", "Tensorflow", "Pytorch"],
+        mlstack: ["CoreML","Python", "Tensorflow", "Pytorch", "Scikit-learn", "Keras"],
         uiTools: ["Figma", "Sketch"],
-        misc: ["Numpy", "Pandas"]
+        misc: ["Numpy", "Pandas", "Flask", "Scipy", "Matplotlib", "Seaborn"]
     },
+    
     languages: ["python", "c programming", "java", "javascript", "scala"]
 }
 ```
