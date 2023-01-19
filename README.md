@@ -1,6 +1,6 @@
 <h1 align="center"> Hi there 👋 </h1>
 <p align="center"> I am tanay_temani ; )</p>
-<p align="center">I am an aspiring Data Scientist who is really passionate about the field of Artificial Intelligence and solving real-world problems using Machine Learning techniques. He is a forward-thinking person, always looking to learn and experience new technologies.</p>
+<p align="center">I am an aspiring Data Scientist who is really passionate about the field of Artificial Intelligence and solving real-world problems using Machine Learning techniques. I am a forward-thinking person, always looking to learn and experience new technologies.</p>
 
 
 <p align="center" ><img 
