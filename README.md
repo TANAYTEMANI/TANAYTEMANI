@@ -10,10 +10,10 @@
 const tanay= {
     pronouns: "He" | "Him",
     
-    askMeAbout: ["data analysis", "web dev", "machine learning", "artificial intelligence", "python"],
+    askMeAbout: ["AI development", "data analysis", "web dev", "machine learning", "artificial intelligence", "python"],
     
     skills: ["Machine Learning", "Artificial Intelligence", "Deep Learning", "Natural Language Processing", 
-    "Computer Vision", "Regression", "Segmentation", "ANN", "CNN", "RNN", "Time-Series Forecasting"],
+    "Computer Vision", "Regression", "Segmentation", "ANN", "CNN", "RNN", "Time-Series Forecasting", "LLMs", "RAG Systems", "AI Agents"],
     
     technologies:{
         backEnd: ["nodejs", "express", "python"],
